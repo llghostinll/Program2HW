@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 040038854f67fe746bfbf78164e8336b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ScoreText: {instanceID: 0}
+  - Thing: {fileID: 7549992637285722848, guid: 69c45a50f65af56499a93d8ef2ae73e2, type: 3}
+  - FriendPrefab: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - AS: {instanceID: 0}
+  - hey: {fileID: 8300000, guid: d295216b6679c1b449a9c8f4e53bb254, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
